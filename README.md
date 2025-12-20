@@ -15,6 +15,9 @@ The purpose of this project is to strengthen problem-solving skills and understa
 ### 🔹 Algorithms
 - Basic searching techniques
 - Logical problem solving using Java
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
 
 ---
 
